@@ -7,5 +7,5 @@ HOST,apple.imap.mail.yahoo.com,Mail
 HOST,apple.smtp.mail.yahoo.com,Mail
 
 # > Yahoo
-DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,yahoo.com,Yahoo
 DOMAIN,search.yahoo.co.jp
