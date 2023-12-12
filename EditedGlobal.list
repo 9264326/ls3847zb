@@ -428,8 +428,8 @@ DOMAIN-SUFFIX,wikiversity.org
 DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
 # > Yahoo
-DOMAIN-SUFFIX,yahoo.com
-DOMAIN,search.yahoo.co.jp
+//DOMAIN-SUFFIX,yahoo.com
+//DOMAIN,search.yahoo.co.jp
 # > Yandex
 DOMAIN-SUFFIX,yadi.sk
 DOMAIN,disk.yandex.com
