@@ -16,3 +16,4 @@ host, app-measurement.com, direct
 
 host, cloud.rovio.com, direct
 host, analytics-ios-tcp.mintegral.net, direct
+host, bc.googleusercontent.com, direct
