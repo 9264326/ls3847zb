@@ -1,13 +1,13 @@
-host, app.adjust.com, direct
+；host, app.adjust.com, direct
 ;对话得石头
 host-keyword, bc.googleusercontent.com, direct
 ;多人匹配
-host-keyword, sekai, 节点选择
+;host-keyword, sekai, 节点选择
 
 host, app-measurement.com, direct
 
-host-keyword, applovin, 节点选择
-host-keyword, applvn, 节点选择
+;host-keyword, applovin, 节点选择
+;host-keyword, applvn, 节点选择
 ;host, rt.applovin.com, 节点选择
 ;host, observe-tcp.mintegral.net, 节点选择
 ;host, prod-mediate-events.applovin.com, 节点选择
