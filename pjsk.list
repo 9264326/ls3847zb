@@ -6,12 +6,14 @@ host-keyword, sekai, 节点选择
 
 host, app-measurement.com, direct
 
-host, rt.applovin.com, 节点选择
-host, observe-tcp.mintegral.net, 节点选择
-host, prod-mediate-events.applovin.com, 节点选择
-host, ms.applovin.com, 节点选择
-host, ms4.applvn.com, 节点选择
-host, d.applvn.com, 节点选择
+host-keyword, applovin, 节点选择
+host-keyword, applvn, 节点选择
+;host, rt.applovin.com, 节点选择
+;host, observe-tcp.mintegral.net, 节点选择
+;host, prod-mediate-events.applovin.com, 节点选择
+;host, ms.applovin.com, 节点选择
+;host, ms4.applvn.com, 节点选择
+;host, d.applvn.com, 节点选择
 ;开屏进入
 
 host-keyword, unity3d.com, direct
