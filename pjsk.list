@@ -1,0 +1,15 @@
+host-keyword, sekai, 节点选择
+host, rt.applovin.com, 节点选择
+
+host, observe-tcp.mintegral.net, direct
+
+host, prod-mediate-events.applovin.com, direct
+host, ms.applovin.com, direct
+host, ms4.applvn.com, direct
+host, d.applvn.com, direct
+
+host-keyword, unity3d.com, direct
+host-keyword, unitychina.cn, direct
+
+host, app.adjust.com, direct
+host, app-measurement.com, direct
