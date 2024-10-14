@@ -13,3 +13,6 @@ host-keyword, unitychina.cn, direct
 
 host, app.adjust.com, direct
 host, app-measurement.com, direct
+
+host, cloud.rovio.com, direct
+host, analytics-ios-tcp.mintegral.net, direct
