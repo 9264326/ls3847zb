@@ -11,21 +11,21 @@ host-keyword, applvn.com, 节点选择
 host-keyword, gatatic, 节点选择
 
 # > Mastodon
-host, bgme.me, 节点选择
-host, o3o.ca, 节点选择
-host, alive.bar, 节点选择
-host, m.cmx.im, 节点选择
-host, go5.dev, 节点选择
-host, alive.bar, 节点选择
-host, wxw.moe, 节点选择
-host, 1234.as, 节点选择
-host, neodb.social, 节点选择
+host-suffix, bgme.me, 节点选择
+host-suffix, o3o.ca, 节点选择
+host-suffix, alive.bar, 节点选择
+host-suffix, m.cmx.im, 节点选择
+host-suffix, go5.dev, 节点选择
+host-suffix, wxw.moe, 节点选择
+host-suffix, 1234.as, 节点选择
+host-suffix, neodb.social, 节点选择
+
 # > Mastodon 直连
-host, o3o.dob.jp, direct
-host, bgme.bid, direct
-host, wxw.ooo, direct
-host, m.otter.homes, direct
-host, stelpolva.moe, direct
+host-suffix, o3o.dob.jp, direct
+host-suffix, bgme.bid, direct
+host-suffix, wxw.ooo, direct
+host-suffix, m.otter.homes, direct
+host-suffix, stelpolva.moe, direct
 
 # > Yahoo 雅虎邮箱
 HOST, apple.imap.mail.yahoo.com,direct
@@ -36,7 +36,7 @@ host-keyword, mail.yahoo.com, 节点选择
 
 # > Steam 
 host, steampy.com, direct
-host, store.steampowered.com, 节点选择
+host-suffix, store.steampowered.com, 节点选择
 host, fanatical.com, 节点选择
 host, steampy.com, direct
 host-keyword, steam, 节点选择
@@ -64,7 +64,6 @@ host, memes.tw, 节点选择
 
 host, bsky.app, 节点选择
 host-keyword, x.com, 节点选择
-host-keyword, bsky, 节点选择
 host, archiveofourown.org, 节点选择
 host, imgflip.com, 节点选择
 host, bangumi.moe, 节点选择
