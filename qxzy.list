@@ -22,8 +22,8 @@ host-suffix, neodb.social, 节点选择
 host-suffix, mastodon.social, 节点选择
 
 # > Mastodon 直连
-host-suffix, o3o.dob.jp, direct
 host-suffix, bgme.bid, direct
+host-suffix, o3o.dob.jp, direct
 host-suffix, wxw.ooo, direct
 host-suffix, m.otter.homes, direct
 host-suffix, stelpolva.moe, direct
