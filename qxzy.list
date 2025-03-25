@@ -22,7 +22,7 @@ host-suffix, neodb.social, 节点选择
 host-suffix, mastodon.social, 节点选择
 
 # > Mastodon 直连
-host-suffix, bgme.bid, direct
+host-ssufix, bgme.bid, direct
 host-suffix, o3o.dob.jp, direct
 host-suffix, wxw.ooo, direct
 host-suffix, m.otter.homes, direct
@@ -51,6 +51,7 @@ host-suffix, kxo.moe, direct
 host-suffix, kox.moe, direct
 
 # > 其他添加
+host-suffix, facebook.com, 节点选择
 host-keyword, wiki.gg, 节点选择
 host-keyword, bookwalker, 节点选择
 host-keyword, tongli, 台湾节点
@@ -62,14 +63,11 @@ host-keyword, czbooks, 节点选择
 host-keyword, fandom, 节点选择
 host, imgflip.com, 节点选择
 host, memes.tw, 节点选择
-
 host-suffix, bsky.app, 节点选择
 host-suffix, x.com, 节点选择
 host-suffix, archiveofourown.org, 节点选择
 host, imgflip.com, 节点选择
 host, bangumi.moe, 节点选择
-host-suffix, facebook.com, 节点选择
-
 host-suffix, po18.tw, 节点选择
 
 
