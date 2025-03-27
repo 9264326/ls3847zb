@@ -47,8 +47,8 @@ host, nyaa.si, 节点选择
 host, mikanani.me, 节点选择
 host, acg.rip, 节点选择
 host, z-library.sk, 节点选择
-host-suffix, kxo.moe, direct
-host-suffix, kox.moe, direct
+host, kxo.moe, 节点选择
+host, kox.moe, 节点选择
 
 # > 其他添加
 host-suffix, facebook.com, 节点选择
