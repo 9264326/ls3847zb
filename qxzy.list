@@ -4,11 +4,15 @@
 host, ios-app.heypi.com, 节点选择
 host, ios.chat.openai.com, 美国节点
 
+
+
 # > ProjectSekai
 host-keyword, sekai, 节点选择
 host-keyword, applovin.com, 节点选择
 host-keyword, applvn.com, 节点选择
 host-keyword, unity3d, 节点选择
+
+
 
 # > Mastodon
 host-suffix, bgme.me, 节点选择
@@ -28,12 +32,16 @@ host-suffix, wxw.ooo, direct
 host-suffix, m.otter.homes, direct
 host-suffix, stelpolva.moe, direct
 
+
+
 # > Yahoo 雅虎邮箱
 HOST, apple.imap.mail.yahoo.com,direct
 HOST, apple.smtp.mail.yahoo.com,direct
 DOMAIN, search.yahoo.co.jp,节点选择
 host-suffix, yahoo.com, direct
 host-keyword, mail.yahoo.com, 节点选择
+
+
 
 # > Steam 
 host, steampy.com, direct
@@ -42,6 +50,8 @@ host, fanatical.com, 节点选择
 host, steampy.com, direct
 host-keyword, steam, 节点选择
 
+
+
 # > Download
 host, nyaa.si, 节点选择
 host, mikanani.me, 节点选择
@@ -49,6 +59,8 @@ host, acg.rip, 节点选择
 host, z-library.sk, 节点选择
 host, kxo.moe, 节点选择
 host, kox.moe, 节点选择
+
+
 
 # > 其他添加
 host-suffix, facebook.com, 节点选择
@@ -62,6 +74,7 @@ host, memes.tw, 节点选择
 
 host, imgflip.com, 节点选择
 host, bangumi.moe, 节点选择
+host, sosad.fun, 节点选择
 host-suffix, po18.tw, 节点选择
 host-keyword, bookwalker, 节点选择
 host-keyword, tongli, 台湾节点
@@ -71,6 +84,9 @@ host-suffix, archiveofourown.org, 节点选择
 host-suffix, bsky.app, 节点选择
 host-suffix, x.com, 节点选择
 host, boylove.cc, 节点选择
+
+;Kazumi app
+host, www.jcydm1.com, direct
 
 
 
