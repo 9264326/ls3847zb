@@ -6,14 +6,6 @@ host, ios.chat.openai.com, 美国节点
 
 
 
-# > ProjectSekai
-host-keyword, sekai, 节点选择
-host-keyword, applovin.com, 节点选择
-host-keyword, applvn.com, 节点选择
-host-keyword, unity3d, 节点选择
-
-
-
 # > Mastodon
 host-suffix, bgme.me, 节点选择
 host-suffix, o3o.ca, 节点选择
@@ -91,6 +83,32 @@ host, www.jcydm1.com, direct
 
 
 
+
+
+# > Project Sekai
+host-keyword, sekai, 节点选择
+host-keyword, applovin.com, 节点选择
+host-keyword, applvn.com, 节点选择
+host-keyword, unity3d, 节点选择
+
+;host, app.adjust.com, 节点选择
+;对话得石头
+;host-keyword, bc.googleusercontent.com, direct
+;多人匹配
+;host-keyword, sekai, 节点选择
+;host, app-measurement.com, direct
+;host-keyword, applovin, 节点选择
+;host-keyword, applvn, 节点选择
+;host, rt.applovin.com, 节点选择
+;host, observe-tcp.mintegral.net, 节点选择
+;host, prod-mediate-events.applovin.com, 节点选择
+;host, ms.applovin.com, 节点选择
+;host, ms4.applvn.com, 节点选择
+;host, d.applvn.com, 节点选择
+;开屏进入
+;host-keyword, unitychina.cn, direct
+;host, cloud.rovio.com, direct
+;host, analytics-ios-tcp.mintegral.net, direct
 
 
 
