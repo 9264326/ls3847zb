@@ -19,7 +19,7 @@ host-suffix, mastodon.social, 节点选择
 
 # > Mastodon 直连
 host-suffix, bgme.bid, direct
-host-suffix, o3o.dob.jp, direct
+host-suffix, o3o.my.id, direct
 host-suffix, wxw.ooo, direct
 host-suffix, m.otter.homes, direct
 host-suffix, stelpolva.moe, direct
