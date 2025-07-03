@@ -16,13 +16,13 @@ host-suffix, wxw.moe, 节点选择
 host-suffix, 1234.as, 节点选择
 host-suffix, neodb.social, 节点选择
 host-suffix, mastodon.social, 节点选择
-
+host-suffix, m.otter.homes, 节点选择
 
 # > Mastodon 直连
 host-suffix, bgme.bid, direct
 host-suffix, o3o.my.id, direct
 host-suffix, wxw.ooo, direct
-
+host-suffix, www.otter.homes, direct
 
 
 # > Yahoo 雅虎邮箱
@@ -40,14 +40,14 @@ host-suffix, store.steampowered.com, 节点选择
 host, fanatical.com, 节点选择
 host, steampy.com, direct
 host-keyword, steam, 节点选择
-
+host, steamcontent.com, direct
 
 
 # > Download
 host, nyaa.si, 节点选择
 host, mikanani.me, 节点选择
 host, acg.rip, 节点选择
-host, z-library.sk, 节点选择
+host-keyword, z-library, 节点选择
 host, kxo.moe, 节点选择
 host, kox.moe, 节点选择
 
@@ -75,6 +75,7 @@ host-suffix, archiveofourown.org, 节点选择
 host-keyword, bsky, 节点选择
 host-suffix, x.com, 节点选择
 host, boylove.cc, 节点选择
+host, tw.imyfone.com, 节点选择
 
 ;Kazumi app
 host, www.jcydm1.com, direct
