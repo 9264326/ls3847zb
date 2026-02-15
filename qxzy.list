@@ -7,22 +7,18 @@ host, ios.chat.openai.com, 美国节点
 
 
 # > Mastodon
-host-suffix, bgme.me, 节点选择
-host-suffix, o3o.ca, 节点选择
-host-suffix, alive.bar, 节点选择
-host-suffix, m.cmx.im, 节点选择
-host-suffix, go5.dev, 节点选择
-host-suffix, wxw.moe, 节点选择
-host-suffix, 1234.as, 节点选择
-host-suffix, neodb.social, 节点选择
-host-suffix, mastodon.social, 节点选择
-host-suffix, m.otter.homes, 节点选择
+host, bgme.me, 节点选择
+host, o3o.ca, 节点选择
+host, wxw.moe, 节点选择
+host, neodb.social, 节点选择
+host, mastodon.social, 节点选择
+host, m.otter.homes, 节点选择
 
 # > Mastodon 直连
-host-suffix, bgme.bid, direct
-host-suffix, o3o.my.id, direct
-host-suffix, wxw.ooo, direct
-host-suffix, www.otter.homes, direct
+host, bgme.bid, direct
+host, o3o.my.id, direct
+host, wxw.ooo, direct
+host, www.otter.homes, direct
 
 
 # > Yahoo 雅虎邮箱
@@ -38,7 +34,6 @@ host-keyword, mail.yahoo.com, 节点选择
 host, steampy.com, direct
 host-suffix, store.steampowered.com, 节点选择
 host, fanatical.com, 节点选择
-host, steampy.com, direct
 host-keyword, steam, 节点选择
 host, steamcontent.com, direct
 
@@ -54,9 +49,6 @@ host, kox.moe, 节点选择
 
 
 # > 其他添加
-host-suffix, facebook.com, 节点选择
-host-keyword, wiki.gg, 节点选择
-
 host, cdn.shucdn.com, 节点选择
 host-keyword, czbooks, 节点选择
 host-keyword, fandom, 节点选择
@@ -79,12 +71,6 @@ host-keyword, bsky, 节点选择
 host-suffix, x.com, 节点选择
 host, boylove.cc, 节点选择
 host, tw.imyfone.com, 节点选择
-
-;Kazumi app
-host, www.jcydm1.com, direct
-
-
-
 
 
 
