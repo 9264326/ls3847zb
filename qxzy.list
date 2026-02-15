@@ -65,6 +65,9 @@ host, memes.tw, 节点选择
 
 host, imgflip.com, 节点选择
 host, bangumi.moe, 节点选择
+host, bangumi.tv 节点选择
+host, bgm.tv 节点选择
+
 host, sosad.fun, 节点选择
 host-suffix, po18.tw, 节点选择
 host-keyword, bookwalker, 节点选择
@@ -86,10 +89,11 @@ host, www.jcydm1.com, direct
 
 
 # > Project Sekai
-host-keyword, sekai, 节点选择
-host-keyword, applovin.com, 节点选择
-host-keyword, applvn.com, 节点选择
-host-keyword, unity3d, 节点选择
+
+；host-keyword, sekai, 节点选择
+；host-keyword, applovin.com, 节点选择
+；host-keyword, applvn.com, 节点选择
+；host-keyword, unity3d, 节点选择
 
 ;host, app.adjust.com, 节点选择
 ;对话得石头
