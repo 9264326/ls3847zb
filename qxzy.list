@@ -1,6 +1,5 @@
 # Quantumult 自用规则（暂
 
-host-suffix, neodb.social, 节点选择
 
 # > Mastodon
 host, o3o.ca, 节点选择
