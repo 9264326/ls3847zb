@@ -2,18 +2,18 @@
 
 
 # > Mastodon
-host, o3o.ca, 节点选择
-host, wxw.moe, 节点选择
-host, neodb.social, 节点选择
-host, mastodon.social, 节点选择
-host, m.otter.homes, 节点选择
+host-suffix, o3o.ca, 节点选择
+host-suffix, wxw.moe, 节点选择
+host-suffix, neodb.social, 节点选择
+host-suffix, mastodon.social, 节点选择
+host-suffix, m.otter.homes, 节点选择
 
 # > Mastodon 直连
 
-host, o3o.my.id, direct
-host, o3o.org.es, direct
-host, wxw.ooo, direct
-host, www.otter.homes, direct
+host-suffix, o3o.my.id, direct
+host-suffix, o3o.org.es, direct
+host-suffix, wxw.ooo, direct
+host-suffix, www.otter.homes, direct
 
 
 # > Yahoo 雅虎邮箱
@@ -26,44 +26,43 @@ host-keyword, mail.yahoo.com, 节点选择
 
 
 # > Steam 
-host, steampy.com, direct
-host, fanatical.com, 节点选择
+host-suffix, steampy.com, direct
+host-suffix, fanatical.com, 节点选择
 
 
 
 # > Download
-host, nyaa.si, 节点选择
-host, mikanani.me, 节点选择
-host, acg.rip, 节点选择
+host-suffix, nyaa.si, 节点选择
+host-suffix, mikanani.me, 节点选择
+host-suffix, acg.rip, 节点选择
 host-keyword, z-lib, 节点选择
-host, kxo.moe, 节点选择
-host, kox.moe, 节点选择
+host-suffix, kxo.moe, 节点选择
+host-suffix, kox.moe, 节点选择
 
 
 
 # > 其他添加
-host, cdn.shucdn.com, 节点选择
+host-suffix, cdn.shucdn.com, 节点选择
 host-keyword, czbooks, 节点选择
 host-keyword, fandom, 节点选择
-host, imgflip.com, 节点选择
-host, memes.tw, 节点选择
+host-suffix, imgflip.com, 节点选择
+host-suffix, memes.tw, 节点选择
 
-host, imgflip.com, 节点选择
-host, bangumi.moe, 节点选择
-host, bangumi.tv, 节点选择
-host, bgm.tv, 节点选择
+host-suffix, bangumi.moe, 节点选择
+host-suffix, bangumi.tv, 节点选择
+host-suffix, bgm.tv, 节点选择
 
-host, sosad.fun, 节点选择
+host-suffix, sosad.fun, 节点选择
 host-suffix, po18.tw, 节点选择
 host-keyword, bookwalker, 节点选择
 host-keyword, tongli, 台湾节点
-host, dlz1.fcdn.sk, 节点选择
-host, www.52shuku.vip, 节点选择
+host-suffix, dlz1.fcdn.sk, 节点选择
+host-suffix, www.52shuku.vip, 节点选择
 host-suffix, archiveofourown.org, 节点选择
 host-keyword, bsky, 节点选择
 host-suffix, x.com, 节点选择
-host, boylove.cc, 节点选择
-host, tw.imyfone.com, 节点选择
+host-suffix, boylove.cc, 节点选择
+host-suffix, tw.imyfone.com, 节点选择
 
 
 
